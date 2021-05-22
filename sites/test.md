@@ -15,3 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bunzela/bunzela.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
