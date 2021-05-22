@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 TESTSTESTSETSET
-https://bunzela.github.io/sites/test.md)
+https://bunzela.github.io/sites/test.md
 
 
 You can use the [editor on GitHub](https://github.com/bunzela/bunzela.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
