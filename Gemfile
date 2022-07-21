@@ -1,1 +1,2 @@
-gem "jekyll-theme-rtd"
+gem "just-the-docs"
+
